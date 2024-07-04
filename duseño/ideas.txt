@@ -1,0 +1,4 @@
+agregar una linea de color para dividir las partes
+
+animacion con scroll  (LUN DEV)
+
